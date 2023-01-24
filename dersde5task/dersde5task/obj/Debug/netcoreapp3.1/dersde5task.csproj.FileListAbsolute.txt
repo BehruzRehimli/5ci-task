@@ -1,0 +1,14 @@
+C:\Users\Ziya\Desktop\c#\dersde5task\dersde5task\bin\Debug\netcoreapp3.1\dersde5task.exe
+C:\Users\Ziya\Desktop\c#\dersde5task\dersde5task\bin\Debug\netcoreapp3.1\dersde5task.deps.json
+C:\Users\Ziya\Desktop\c#\dersde5task\dersde5task\bin\Debug\netcoreapp3.1\dersde5task.runtimeconfig.json
+C:\Users\Ziya\Desktop\c#\dersde5task\dersde5task\bin\Debug\netcoreapp3.1\dersde5task.runtimeconfig.dev.json
+C:\Users\Ziya\Desktop\c#\dersde5task\dersde5task\bin\Debug\netcoreapp3.1\dersde5task.dll
+C:\Users\Ziya\Desktop\c#\dersde5task\dersde5task\bin\Debug\netcoreapp3.1\dersde5task.pdb
+C:\Users\Ziya\Desktop\c#\dersde5task\dersde5task\obj\Debug\netcoreapp3.1\dersde5task.csproj.AssemblyReference.cache
+C:\Users\Ziya\Desktop\c#\dersde5task\dersde5task\obj\Debug\netcoreapp3.1\dersde5task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ziya\Desktop\c#\dersde5task\dersde5task\obj\Debug\netcoreapp3.1\dersde5task.AssemblyInfoInputs.cache
+C:\Users\Ziya\Desktop\c#\dersde5task\dersde5task\obj\Debug\netcoreapp3.1\dersde5task.AssemblyInfo.cs
+C:\Users\Ziya\Desktop\c#\dersde5task\dersde5task\obj\Debug\netcoreapp3.1\dersde5task.csproj.CoreCompileInputs.cache
+C:\Users\Ziya\Desktop\c#\dersde5task\dersde5task\obj\Debug\netcoreapp3.1\dersde5task.dll
+C:\Users\Ziya\Desktop\c#\dersde5task\dersde5task\obj\Debug\netcoreapp3.1\dersde5task.pdb
+C:\Users\Ziya\Desktop\c#\dersde5task\dersde5task\obj\Debug\netcoreapp3.1\dersde5task.genruntimeconfig.cache
